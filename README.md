@@ -1,2 +1,2 @@
-1.Create a directory zero_day
-2.Navigate to it`
+In this readme you will find [this link]
+[https://github.com/GeraminKip/zero_day.git] to my repo.`
