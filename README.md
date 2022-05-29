@@ -1,2 +1,2 @@
 In this readme you will find [this link]
-[https://github.com/GeraminKip/zero_day.git] to my repo.`
+[https://github.com/GermainKip/zero_day.git] to my repo.`
